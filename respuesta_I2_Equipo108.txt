@@ -9,10 +9,14 @@ c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar el fork?
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumno
 
-a:
-b:
-c: Posible es pero no lo hicieron ya que la consigna no lo especifico.
-d: No, los datos que tenia editados en el repositorio no se pierden al actualizar el fork.
+a: Tenemos que primero agregar el repositorio principal (Del cual se hace fork) como "upstream" y crear un branch que se encargue de traer los cambios de este repositorio, de esta manera al hacer un merge entre mi rama "main" y mi rama para el repositorio principal traere correctamente los cambios del repositorio principal.
+
+b: Poder, es posible, pero el ejercicio no lo especifico. Funcionaria de la misma manera que la respuesta para la consigna "a".
+
+c: No, los datos que tengo en mi repositorio no se pierden cuando actualizo mi fork.
+
+d: 
+
 e:                                 Listado de comandos necesarios
   1.git remote add upstream https://github.com/Demiauu/TP_SO_i2_Equipo108.git :Agrego el repositorio original
   2.git fetch upstream :  Descargo los cambios del repositorio original
@@ -23,4 +27,4 @@ e:                                 Listado de comandos necesarios
   Ivan Sacks 
   Paz Gamboa Demian August
   Paniagua Kevin
-
+ 
