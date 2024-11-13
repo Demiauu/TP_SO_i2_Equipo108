@@ -10,14 +10,11 @@ d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quie
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumno
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 a:
 b: 
 c: 
 d:
 =======
-=======
->>>>>>> 9f652596d85429fbd1e1f1d0d4b2366bae60588a
 a: Tenemos que primero agregar el repositorio principal (Del cual se hace fork) como "upstream" y crear un branch que se encargue de traer los cambios de este repositorio, de esta manera al hacer un merge entre mi rama "main" y mi rama para el repositorio principal traere correctamente los cambios del repositorio principal.
 
 b: Poder, es posible, pero el ejercicio no lo especifico. Funcionaria de la misma manera que la respuesta para la consigna "a".
@@ -26,8 +23,5 @@ c: No, los datos que tengo en mi repositorio no se pierden cuando actualizo mi f
 
 d: 
 
-<<<<<<< HEAD
 >>>>>>> 86fa3a1 (Respuesta de GAMMA para las consignas "a" y "b")
-=======
->>>>>>> 9f652596d85429fbd1e1f1d0d4b2366bae60588a
 e:
