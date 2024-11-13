@@ -13,4 +13,14 @@ a:
 b: 
 c: 
 d:
-e:
+e:                                 Listado de comandos necesarios
+  1.git remote add upstream https://github.com/usuario-original/repositorio-original.git :Agrego el repositorio original
+  2.git fetch upstream :  Descargo los cambios del repositorio original
+  3.git checkout main :  Cambio a la rama main
+  4.git merge upstream/main : Fusiono los cambios del repositorio original
+  5.git push origin main  : Subo los cambios a mi repositorio forkeado
+  Nombres y Apellidos
+  Ivan Sacks 
+  Paz Gamboa Demian August
+  Paniagua Kevin
+
