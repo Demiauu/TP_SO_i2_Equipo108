@@ -15,7 +15,7 @@ b: Poder, es posible, pero el ejercicio no lo especifico. Funcionaria de la mism
 
 c: No, los datos que tengo en mi repositorio no se pierden cuando actualizo mi fork.
 
-d: 
+d: No, los datos que tenia editados en el repositorio no se pierden al actualizar el fork.
 
 e:                                 Listado de comandos necesarios
   1.git remote add upstream https://github.com/Demiauu/TP_SO_i2_Equipo108.git :Agrego el repositorio original
