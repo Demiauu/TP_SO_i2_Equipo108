@@ -11,6 +11,6 @@ e- realizar un listado, paso a paso ,de los comando necesarios para resolver est
 
 a:
 b:
-c:
-d:
+c: Posible es pero no lo hicieron ya que la consigna no lo especifico.
+d: No, los datos que tenia editados en el repositorio no se pierden al actualizar el fork.
 e:
