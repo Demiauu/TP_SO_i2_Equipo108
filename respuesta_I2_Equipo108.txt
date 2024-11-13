@@ -14,7 +14,7 @@ b:
 c: Posible es pero no lo hicieron ya que la consigna no lo especifico.
 d: No, los datos que tenia editados en el repositorio no se pierden al actualizar el fork.
 e:                                 Listado de comandos necesarios
-  1.git remote add upstream https://github.com/usuario-original/repositorio-original.git :Agrego el repositorio original
+  1.git remote add upstream https://github.com/Demiauu/TP_SO_i2_Equipo108.git :Agrego el repositorio original
   2.git fetch upstream :  Descargo los cambios del repositorio original
   3.git checkout main :  Cambio a la rama main
   4.git merge upstream/main : Fusiono los cambios del repositorio original
