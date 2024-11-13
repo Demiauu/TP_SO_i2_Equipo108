@@ -11,6 +11,6 @@ e- realizar un listado, paso a paso ,de los comando necesarios para resolver est
 
 a:
 b:Alfa pudo actualizar su fork al estado del fork de Gamma
-c:
+c: No, los datos que tengo en mi repositorio no se pierden cuando actualizo mi fork.
 d:
 e:
